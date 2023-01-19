@@ -2,7 +2,6 @@
 title: Fun with conditional types
 marp: true
 theme: kubi
-footer: '![techatbloomberg.com](./media/techatbloomberg.png) © 2021 Bloomberg Finance L.P. All rights reserved. ![techatbloomberg.com](./media/bloomberg.png)'
 ---
 
 ### Sets and Types
@@ -69,7 +68,7 @@ Use a union
 
 </answer>
 
----
+<!-- ---
 
 ### Type Guards - Narrowing unions
 
@@ -93,4 +92,4 @@ You can only safely access common properties. You need to narrow the type of a u
 * To narrow the `value` variable:
     * `'property' in value`  - the `in` type guard
     * `typeof value === 'valid type'` - the `typeof` type guard
-
+ -->
