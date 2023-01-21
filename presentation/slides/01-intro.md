@@ -10,7 +10,8 @@ theme: kubi
 
 # Understand TS using Set Theory*
 
-<!-- * _*_ and other TS Mental models -->
+* _*_ and other Mental models
+* _*_ become a TS wizard 🧙
 
 <!-- * scan QR code for repo: 
 <img src="./media/repo-qr.png" style="position:absolute; top:460px; left: 1010px; width: 260px" />  -->
