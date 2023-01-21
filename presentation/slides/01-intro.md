@@ -1,14 +1,14 @@
 ---
-title: Advanced TS using Set Theory
+title: Understanding TS using Set Theory
 marp: true
 theme: kubi
-# footer: '![techatbloomberg.com](./media/techatbloomberg.png) © 2021 Bloomberg Finance L.P. All rights reserved. ![techatbloomberg.com](./media/bloomberg.png)'
+
 ---
 
 <!-- _class: lead title -->
 <!-- _footer: '' -->
 
-# Understanding TS using Set Theory*
+# Understand TS using Set Theory*
 
 <!-- * _*_ and other TS Mental models -->
 
@@ -18,7 +18,7 @@ theme: kubi
 ---
 <div class="two-col-header">
 
-![height:200px](./media/bishwajit.jpg)
+![height:250px](./media/bishwajit.jpg)
 <!-- <img src="./media/repo-qr.png" style="position:absolute; top:460px; left: 1010px; width: 260px; z-index:5000" /> -->
 
 <div style="display: flex; justify-content: center; flex-direction: column "> 
