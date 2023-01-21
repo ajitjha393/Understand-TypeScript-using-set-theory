@@ -35,7 +35,7 @@ theme: kubi
 **Bishwajit Jha**
 
 * SDE-2 at Planful
-* Contributor of TypeScript, ts-essentials, lodash
+* Contributor of `TypeScript`, `ts-essentials`, `lodash`
 * Fan of TypeScript
 * Answers TypeScript questions on [Stack Overflow](https://stackoverflow.com/users/10310568/bishwajit-jha)
 
