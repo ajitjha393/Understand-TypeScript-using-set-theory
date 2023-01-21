@@ -1,5 +1,5 @@
 ---
-title: Fun with conditional types
+title: Understanding TS using Set Theory
 marp: true
 theme: kubi
 ---
